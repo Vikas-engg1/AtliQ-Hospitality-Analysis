@@ -11,3 +11,4 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 
  - Provided Mock-up Dashboard
  ## Data Model
+![Hotel Data MOdel](https://github.com/user-attachments/assets/8848fc14-0f2c-4968-813b-a1b603743b9c)
