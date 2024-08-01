@@ -21,7 +21,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 ## Learning Outcomes
 - Learnt, how to use bookmarks and selection for different purposes?
 - Tried, using colour palette and stick with that colours throughout the dashboard. 
-
-
+## Link of the Project File
+https://github.com/Vikas-engg1/AtliQ-Hospitality-Analysis/blob/main/Hotel%20Insights.pdf
 
 
