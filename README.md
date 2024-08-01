@@ -8,8 +8,8 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 - Create the metrics according to the metric list.
 - Create a dashboard according to the mock-up provided by stakeholders.
 - Create relevant insights that are not provided in the metric list/mock-up dashboard.
-
- - Provided Mock-up Dashboard
+## Provided Mock-up Dashboard.
+  ![Hotel Mockup](https://github.com/user-attachments/assets/9dafb0b3-dfb7-4fbd-9970-8d5100187e31)
 ## Data Model
 ![Hotel Data MOdel](https://github.com/user-attachments/assets/8848fc14-0f2c-4968-813b-a1b603743b9c)
 ## Home Page
@@ -18,6 +18,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 ![Hotel Reveue](https://github.com/user-attachments/assets/1f1b0535-b4e9-456a-bdc5-a62c790a4559)
 ## Occupancy
 ![Hotel Occupancy](https://github.com/user-attachments/assets/efb3223b-e5a4-4afc-9f06-2c45a3baf167)
+## Learning Outcomes
 - Learnt, how to use bookmarks and selection for different purposes?
 - Tried, using colour palette and stick with that colours throughout the dashboard. 
 
