@@ -16,6 +16,11 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 ![Hotel_Home](https://github.com/user-attachments/assets/757a07b3-0298-4978-a025-bdcc1cfc5253)
 ## Revenue Insights
 ![Hotel Reveue](https://github.com/user-attachments/assets/1f1b0535-b4e9-456a-bdc5-a62c790a4559)
-## Occupancy 
+## Occupancy
+![Hotel Occupancy](https://github.com/user-attachments/assets/efb3223b-e5a4-4afc-9f06-2c45a3baf167)
+- Learnt, how to use bookmarks and selection for different purposes?
+- Tried, using colour palette and stick with that colours throughout the dashboard. 
+
+
 
 
