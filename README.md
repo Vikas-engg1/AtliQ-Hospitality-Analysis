@@ -10,5 +10,12 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 - Create relevant insights that are not provided in the metric list/mock-up dashboard.
 
  - Provided Mock-up Dashboard
+## Home Page
+
  ## Data Model
 ![Hotel Data MOdel](https://github.com/user-attachments/assets/8848fc14-0f2c-4968-813b-a1b603743b9c)
+## Revenue Insights
+
+## Occupancy 
+
+
