@@ -15,7 +15,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 ## Home Page
 ![Hotel_Home](https://github.com/user-attachments/assets/757a07b3-0298-4978-a025-bdcc1cfc5253)
 ## Revenue Insights
-
+![Hotel Reveue](https://github.com/user-attachments/assets/1f1b0535-b4e9-456a-bdc5-a62c790a4559)
 ## Occupancy 
 
 
